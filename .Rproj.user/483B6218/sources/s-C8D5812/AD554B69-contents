@@ -1,7 +1,8 @@
 title = "Smith-Diaz"
-baseURL = "https://smith-diaz.com"
+baseURL = "https://loving-lumiere-f4d684.netlify.com"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
+# themesDir = "../.."
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
@@ -17,12 +18,12 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = "Welcome to Smith-Diaz"
   facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
+  twitter = ""
   instagram = ""
   youtube = ""
-  github = ""
+  github = "https://github.com/smith-diaz"
   gitlab = ""
   linkedin = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"

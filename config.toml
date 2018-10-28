@@ -1,5 +1,5 @@
 title = "Smith-Diaz"
-baseURL = "https://smith-diaz.com"
+baseURL = "https://loving-lumiere-f4d684.netlify.com"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 # themesDir = "../.."
@@ -18,7 +18,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = "Welcome to Smith-Diaz"
   facebook = ""
   twitter = ""
   instagram = ""
